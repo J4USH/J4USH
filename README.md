@@ -5,5 +5,4 @@
 <div align="left">
 <p>I am proficient in Java,Python,SQL.</p>
 <p>(Will add explanation and requirements later)</p>
-  <hr>
 </div>
